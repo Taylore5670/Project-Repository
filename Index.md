@@ -10,7 +10,7 @@
         <table border="1" width="60%">
             <tr>
                 <th>Project Name</th>
-                <th>Link</th>
+                <th> Link </th>
             </tr>
             <tr>
                 <td>Example ARG</td>
@@ -18,7 +18,7 @@
             </tr>
             <tr>
                 <td>Example Story</td>
-                <td><a href="#" style="color: red;">Read</a></td>
+                <td><a href="LeonisProject.html" style="color: red;">Read</a></td>
             </tr>
         </table>
     </center>
